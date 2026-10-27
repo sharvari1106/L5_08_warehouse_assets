@@ -10,3 +10,15 @@ maintenance_system.py:39:1: E302 expected 2 blank lines, found 1
 maintenance_system.py:46:1: E302 expected 2 blank lines, found 1
 maintenance_system.py:50:1: E302 expected 2 blank lines, found 1
 maintenance_system.py:66:1: E305 expected 2 blank lines after class or function definition, found 1
+[1mmaintenance_system.py[m[36m:[m2[36m:[m1[36m:[m [1m[31mF401[m 'logging' imported but unused
+[1mmaintenance_system.py[m[36m:[m10[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m11[36m:[m80[36m:[m [1m[31mE501[m line too long (98 > 79 characters)
+[1mmaintenance_system.py[m[36m:[m15[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m18[36m:[m5[36m:[m [1m[31mE722[m do not use bare 'except'
+[1mmaintenance_system.py[m[36m:[m21[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m29[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m33[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m39[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m46[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m50[36m:[m1[36m:[m [1m[31mE302[m expected 2 blank lines, found 1
+[1mmaintenance_system.py[m[36m:[m66[36m:[m1[36m:[m [1m[31mE305[m expected 2 blank lines after class or function definition, found 1
