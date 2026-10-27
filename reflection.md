@@ -1,4 +1,6 @@
 # Reflection — Lab 5: Static Code Analysis
+  **Name:** Sharvari Naik  
+  **SRN:** PES1UG24CS431
 
 ## 1. Which issues were the easiest to fix, and which were the hardest? Why?
 
